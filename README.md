@@ -24,7 +24,7 @@ into structured, queryable Snowflake tables:
 
 ## Getting Started
 
-**[View the guide online](https://aryeung0.github.io/SoFi_L200/L200_Participant_Guide.html)** (no download needed) — it walks you through all 9 functions, the SQL for each, and what to try hands-on. Includes a slide reference gallery matching the deck your facilitator presents.
+**[View the guide online](https://sfc-gh-aryeung.github.io/SoFi_L200/L200_Participant_Guide.html)** (no download needed) — it walks you through all 9 functions, the SQL for each, and what to try hands-on. Includes a slide reference gallery matching the deck your facilitator presents.
 
 There's no setup script to run yourself for Level 200 — your facilitator has already provisioned your account. Just open the guide and follow along.
 
